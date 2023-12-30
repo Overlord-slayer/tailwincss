@@ -11,7 +11,7 @@ el proyecto fue puramente tailwind css y no tiene nada que ver con React, solame
 
 
 # Instalación:
-Para poder utilizar este proyecto, se debe contar con el manejador de paquetes [npm]([https://yarnpkg.com/](https://www.npmjs.com/))
+Para poder utilizar este proyecto, se debe contar con el manejador de paquetes [npm](https://yarnpkg.com/](https://www.npmjs.com/))
 utilizando el comando "npm install". Esto instalara todas las dependencias del proyecto. Cabe resaltar que se debe tener instalado nodejs.
 
 # Uso: 
