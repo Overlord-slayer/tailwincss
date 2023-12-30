@@ -41,4 +41,4 @@ Para este proyecot no hay contribución necesaria, pues solo es un proyecto de a
 
 
 # Tecnologías: una lista de las tecnologías utilizadas en el proyecto, como lenguajes de programación, bibliotecas y frameworks.
-- [Tailwindcss](https://vitejs.dev/](https://tailwindcss.com/) v3.4.0
+- [Tailwindcss](https://vitejs.dev/](https://tailwindcss.com/)) v3.4.0
