@@ -1,7 +1,7 @@
 # tailwindcss
 # Proyecto Personal
 
-### Sitio en el cual se baso el proyecto [Tailwindcss Free Course]([https://youtu.be/lCxcTsOHrjo?si=sz_n-HmLYueGLYmm))
+### Sitio en el cual se baso el proyecto [Tailwindcss Free Course](https://youtu.be/lCxcTsOHrjo?si=sz_n-HmLYueGLYmm)
 
 # Descripción:
 Este proyecto se desarrollo con el proposito de poder aprender la tecnología Tailwind css, que es un framework de css que
@@ -41,4 +41,4 @@ Para este proyecot no hay contribución necesaria, pues solo es un proyecto de a
 
 
 # Tecnologías: una lista de las tecnologías utilizadas en el proyecto, como lenguajes de programación, bibliotecas y frameworks.
-- [Tailwindcss]([https://vitejs.dev/](https://tailwindcss.com/)) v3.4.0
+- [Tailwindcss](https://vitejs.dev/](https://tailwindcss.com/) v3.4.0
